@@ -1,79 +1,165 @@
-<!-- 🌈 LASYA.BIO — COLORFUL GITHUB README -->
+<!--
+╔══════════════════════════════════════════════════════════╗
+║       LASYA.BIO | K. NAGA SAI LASYA                     ║
+║       BIOINFORMATICS × ARTIFICIAL INTELLIGENCE           ║
+╚══════════════════════════════════════════════════════════╝
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,30:2575FC,65:00C9FF,100:92FE9D&height=230&section=header&text=LASYA.BIO&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Where%20Biology%20Meets%20Artificial%20Intelligence&descAlignY=57&descSize=17" width="100%" alt="LASYA.BIO colorful banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:090979,35:6A11CB,70:2575FC,100:00DBDE&text=LASYA.BIO&fontSize=78&fontColor=FFFFFF&fontAlignY=38&desc=DECODING%20LIFE%20THROUGH%20COMPUTATION&descSize=17&descAlignY=58&animation=fadeIn" alt="LASYA.BIO — futuristic scientific banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=00C9FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+K.+Naga+Sai+Lasya+%F0%9F%91%8B;Bioinformatics+%7C+AI%2FML+%7C+Data+Science;Turning+Biological+Data+Into+Insights;Code.+Decode.+Discover.+%F0%9F%A7%AC" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2400&pause=650&color=00E5FF&center=true&vCenter=true&width=850&height=100&lines=K.+Naga+Sai+Lasya+%7C+Bioinformatics+Explorer;Biology+%2B+Data+Science+%2B+Artificial+Intelligence;Transforming+Biological+Data+into+Insights;Think+Scientifically.+Build+Computationally." alt="Animated introduction"/>
 
 <br/>
 
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/🌐_EXPLORE_MY_PORTFOLIO-7B2FF7?style=for-the-badge&logoColor=white"/></a>
-<a href="mailto:nagasailasya0@gmail.com"><img src="https://img.shields.io/badge/💌_LET'S_CONNECT-FF4B91?style=for-the-badge"/></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GITHUB-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-7B2FF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:nagasailasya0@gmail.com"><img src="https://img.shields.io/badge/CONTACT%20ME-FF4DAB?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/></a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VISITORS&color=ff69b4&style=for-the-badge" alt="Profile visitor counter"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=EXPLORERS&style=for-the-badge&color=8A2BE2&logo=github" alt="GitHub followers"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=VISITORS&color=00DBDE&style=for-the-badge" alt="Profile visitor counter"/>
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&label=COMMUNITY&color=9B5DE5" alt="GitHub followers"/>
 
-### 🔮 *Exploring Life Through the Lens of Code*
+<br/>
+
+**🧬 BIOINFORMATICS &nbsp; • &nbsp; 🤖 AI / ML &nbsp; • &nbsp; 📊 SCIENTIFIC COMPUTING**
 
 </div>
 
 ---
 
-## 🌈 ✦ 01 — WHO AM I?
+<div align="center">
 
-<img align="right" alt="Colorful DNA illustration" width="210" src="https://media.giphy.com/media/3o7TKsQ8UQ4l4LhGz6/giphy.gif"/>
+## `01` — THE SCIENTIST BEHIND THE CODE
 
-Hey there, curious minds! 👋
+*Curiosity in biology. Logic in programming. Intelligence in data.*
 
-I'm **K. Naga Sai Lasya**, a BSc student at **Yogi Vemana University**, passionate about exploring the fascinating intersection of **Biology 🧬, Artificial Intelligence 🤖, and Data Science 📊**.
+</div>
 
-My journey combines biological curiosity with computational thinking. From analyzing DNA sequences to experimenting with machine learning models, I love discovering how technology can help us understand complex biological information.
+<img align="right" width="190" src="https://media.giphy.com/media/3o7TKsQ8UQ4l4LhGz6/giphy.gif" alt="Scientific animation"/>
 
-💜 **My identity:** Bioinformatics Explorer  
-💙 **My toolkit:** Python, Biopython & Machine Learning  
-💚 **My mission:** Transform data into meaningful discoveries  
-🩷 **My mindset:** Learn • Experiment • Build • Improve
+Hello, world! 👋
+
+I'm **K. Naga Sai Lasya**, a BSc student at **Yogi Vemana University**, exploring the intersection of biological science and computational technology.
+
+My interest lies in understanding how programming, data analysis, and machine learning can help investigate complex biological information.
+
+With practical AI/ML internship experience at **Exameets Skillverse**, I'm building my foundation in scientific computing, predictive modeling, and interactive applications.
+
+- 🧬 **Research interests:** Bioinformatics and computational biology
+- 🤖 **AI focus:** Machine learning and predictive analytics
+- 🐍 **Core language:** Python
+- 🔬 **Scientific toolkit:** Biopython, NumPy, Pandas and scikit-learn
+- 🌐 **Development:** Django, HTML, CSS and JavaScript
+- 🚀 **Vision:** Build useful computational tools for biological exploration
 
 <br clear="right"/>
 
 ---
 
-## 🧬 ✦ 02 — MY DIGITAL LABORATORY
-
 <div align="center">
 
-| 🧪 BIOINFORMATICS | 🤖 AI & MACHINE LEARNING |
-|:---:|:---:|
-| DNA & RNA analysis | Supervised learning |
-| FASTA/FASTQ processing | Predictive modeling |
-| GC-content calculation | Model validation |
-| Sequence translation | Feature engineering |
+## `02` — MY SCIENTIFIC UNIVERSE
 
-| 📊 DATA SCIENCE | 🌐 WEB DEVELOPMENT |
-|:---:|:---:|
-| Pandas & NumPy | Django applications |
-| Data cleaning | HTML & CSS |
-| Statistical exploration | JavaScript interactions |
-| Scientific visualization | Git & GitHub |
+*Four disciplines. One computational mindset.*
 
 </div>
 
-## 🎨 ✦ 03 — MY TECH STACK
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 💻 Programming Languages
+<div align="center">
+
+### 🧬 GENOMICS LAB
+
+<img src="https://img.shields.io/badge/DNA-00C9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RNA-7B2FF7?style=for-the-badge"/>
+
+</div>
+
+- Nucleotide sequence analysis
+- FASTA/FASTQ data handling
+- GC-content calculations
+- DNA complement and transcription
+- ORF identification and translation
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🤖 INTELLIGENCE LAB
+
+<img src="https://img.shields.io/badge/MACHINE-LEARNING-FF4DAB?style=for-the-badge"/>
+
+</div>
+
+- Supervised learning
+- Feature engineering
+- Classification workflows
+- Cross-validation
+- Hyperparameter tuning
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 📊 DATA LAB
+
+<img src="https://img.shields.io/badge/DATA-ANALYTICS-00B894?style=for-the-badge"/>
+
+</div>
+
+- Data cleaning and preprocessing
+- Exploratory data analysis
+- Statistical exploration
+- Scientific visualization
+- Reproducible workflows
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🌐 INNOVATION LAB
+
+<img src="https://img.shields.io/badge/WEB-ENGINEERING-FF9F1C?style=for-the-badge"/>
+
+</div>
+
+- Django applications
+- Interactive user interfaces
+- ML model demonstrations
+- Git version control
+- Web-based scientific tools
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `03` — MY TECHNOLOGY DNA
+
+*The tools that power my experiments and projects.*
+
+</div>
+
+### 🐍 Programming
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,js&theme=dark" alt="Programming technology icons"/>
 </p>
 
-### 🧠 AI, ML & Data Analytics
+### 🧠 Machine Learning & Data Science
 
 <p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -83,33 +169,27 @@ My journey combines biological curiosity with computational thinking. From analy
 <img src="https://img.shields.io/badge/Seaborn-49A078?style=for-the-badge"/>
 </p>
 
-### 🧬 Computational Biology
+### 🧬 Bioinformatics
 
 <p>
 <img src="https://img.shields.io/badge/Biopython-2E8B57?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Genomics-7B2CBF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Sequence_Analysis-0077B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GENOMICS-7B2CBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SEQUENCE%20ANALYSIS-0077B6?style=for-the-badge"/>
 </p>
 
-### 🛠️ Development Tools
+### 🛠️ Engineering Tools
 
 <p>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=django,git,github,vscode,jupyter&theme=dark" alt="Development tool icons"/>
 </p>
 
 ---
 
-## 🚀 ✦ 04 — PROJECT GALAXY
-
 <div align="center">
 
-### 🔬 Science + Code = Possibilities
+## `04` — PROJECTS FROM MY LAB
 
-*Small experiments. Creative solutions. Meaningful learning.*
+*Where scientific concepts meet practical implementation.*
 
 </div>
 
@@ -117,50 +197,60 @@ My journey combines biological curiosity with computational thinking. From analy
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🧫 BioData Classifier</h3>
-
 <div align="center">
-<img src="https://img.shields.io/badge/AI-ML-FF6B6B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data_Science-845EC2?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/PROJECT_01-BIOLOGICAL_AI-7B2FF7?style=for-the-badge"/>
+
+### 🧫 BioData Classifier
+
+**Machine Learning × Biology**
+
 </div>
 
-An exploratory machine learning pipeline for biological datasets.
+An end-to-end machine learning workflow for exploring and classifying biological datasets.
 
-- Data cleaning and preprocessing
+**Key components**
+
+- Data preprocessing and missing-value handling
+- Feature preparation
 - Supervised classification
-- Cross-validation
-- Model performance evaluation
+- Cross-validation and confusion matrices
 
-**Built with:** Python · Pandas · Scikit-learn
+**Stack:** Python · Pandas · NumPy · Scikit-learn
 
 <div align="center">
 
-[🔗 Explore Repository](YOUR_CLASSIFICATION_REPO_URL)
+[**↗ EXPLORE SOURCE CODE**](YOUR_CLASSIFICATION_REPO_URL)
 
 </div>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🌐 Django ML Studio</h3>
-
 <div align="center">
-<img src="https://img.shields.io/badge/Django-00A86B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Web_AI-00B4D8?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/PROJECT_02-WEB_INTELLIGENCE-00B4D8?style=for-the-badge"/>
+
+### 🌐 Django ML Studio
+
+**AI Models × Web Applications**
+
 </div>
 
-A web application concept for demonstrating machine learning predictions.
+A web-based demonstration platform for integrating trained machine learning models with interactive forms.
 
-- Interactive user inputs
-- Model inference
-- Prediction result display
-- User-friendly interface
+**Key components**
 
-**Built with:** Django · Python · JavaScript
+- Structured input forms
+- Model prediction workflow
+- Results presentation
+- Django-based application interface
+
+**Stack:** Python · Django · JavaScript · HTML · CSS
 
 <div align="center">
 
-[🔗 Explore Repository](YOUR_DJANGO_REPO_URL)
+[**↗ EXPLORE SOURCE CODE**](YOUR_DJANGO_REPO_URL)
 
 </div>
 
@@ -169,50 +259,61 @@ A web application concept for demonstrating machine learning predictions.
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🧬 Genome Explorer</h3>
-
 <div align="center">
-<img src="https://img.shields.io/badge/Bioinformatics-2D6A4F?style=flat-square"/>
-<img src="https://img.shields.io/badge/Biopython-40916C?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/PROJECT_03-COMPUTATIONAL_BIOLOGY-00B894?style=for-the-badge"/>
+
+### 🧬 Genome Explorer
+
+**DNA → RNA → Protein**
+
 </div>
 
-A computational toolkit for learning and exploring molecular sequences.
+A computational biology toolkit for experimenting with nucleotide sequences and fundamental molecular operations.
 
-- DNA complement generation
+**Key components**
+
+- DNA sequence statistics
+- Complementary sequence generation
 - RNA transcription
-- GC-content analysis
-- ORF identification and translation
+- ORF identification
+- Codon translation
 
-**Built with:** Python · Biopython
+**Stack:** Python · Biopython
 
 <div align="center">
 
-[🔗 Explore Repository](YOUR_BIOINFORMATICS_REPO_URL)
+[**↗ EXPLORE SOURCE CODE**](YOUR_BIOINFORMATICS_REPO_URL)
 
 </div>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🎮 GeneCraft Arcade</h3>
-
 <div align="center">
-<img src="https://img.shields.io/badge/Interactive-FF9F1C?style=flat-square"/>
-<img src="https://img.shields.io/badge/EdTech-E71D36?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/PROJECT_04-BIOLOGY_ARCADE-FF4DAB?style=for-the-badge"/>
+
+### 🎮 GeneCraft
+
+**Biology × Interactive Gaming**
+
 </div>
 
-A biology-inspired gaming experience that combines learning with interactive challenges.
+A biology-inspired arcade concept that makes nucleotide recognition and biological learning more interactive.
 
-- Nucleotide-catching arcade
+**Key components**
+
+- Nucleotide-catching game
 - Complementary base-pairing challenges
-- Score and combo mechanics
-- Biology quiz mode
+- Score and combo system
+- Genomic knowledge quiz
 
-**Built with:** HTML · CSS · JavaScript
+**Stack:** HTML · CSS · JavaScript · Canvas
 
 <div align="center">
 
-[🎯 Play on My Portfolio](YOUR_PORTFOLIO_URL)
+[**↗ PLAY THE GAME**](YOUR_PORTFOLIO_URL)
 
 </div>
 
@@ -220,61 +321,54 @@ A biology-inspired gaming experience that combines learning with interactive cha
 </tr>
 </table>
 
-> 💡 Replace the project links with your real repositories and adjust descriptions to reflect the features you've implemented.
+<sub>Replace the sample project links with your real repositories and ensure the listed features match your implementations.</sub>
 
 ---
 
-## 🧪 ✦ 05 — DNA ANALYSIS PLAYGROUND
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/A--T-FF4D6D?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/C--G-4361EE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DNA--RNA-06D6A0?style=for-the-badge"/>
+## `05` — A GLIMPSE INTO MY DNA TOOLKIT
+
+*Small sequences. Powerful scientific concepts.*
 
 </div>
-
-A glimpse into the computational biology concepts I enjoy exploring.
 
 ```python
 from Bio.Seq import Seq
 
 dna = Seq("ATGCGATCGTAAGCTAGCTA")
 
+gc_content = (
+    (dna.count("G") + dna.count("C")) / len(dna)
+) * 100
+
 print("🧬 DNA Sequence:", dna)
-print("📏 Length:", len(dna), "bp")
-
-gc = 100 * (dna.count("G") + dna.count("C")) / len(dna)
-print(f"📊 GC Content: {gc:.2f}%")
-
+print("📏 Sequence Length:", len(dna), "bp")
+print(f"📊 GC Content: {gc_content:.2f}%")
 print("🔗 Complement:", dna.complement())
-print("🧪 RNA:", dna.transcribe())
-print("🧫 Protein:", dna.translate())
+print("🧪 RNA Transcript:", dna.transcribe())
+print("🧫 Translation:", dna.translate())
 ```
 
-<div align="center">
+| Analysis | Scientific meaning |
+|---|---|
+| 🧬 Sequence length | Number of nucleotide bases |
+| 📊 GC content | Percentage of G and C nucleotides |
+| 🔗 Complement | Complementary DNA bases |
+| 🧪 Transcription | RNA generated from a DNA sequence |
+| 🧫 Translation | Amino acids encoded by a reading frame |
 
-| 🔍 Analysis | 💡 What It Reveals |
-|:---|:---|
-| 📏 Sequence Length | Number of nucleotide bases |
-| 📊 GC Content | Percentage of G and C nucleotides |
-| 🔗 Complement | Corresponding complementary DNA bases |
-| 🧪 Transcription | RNA sequence derived from DNA |
-| 🧫 Translation | Amino acid sequence from coding information |
-
-</div>
-
-*Note: Translation depends on the selected reading frame and biological context. This snippet is a simple demonstration, not a clinical analysis tool.*
+<sub>Educational demonstration only. Real biological interpretation requires suitable sequence context and reading-frame selection.</sub>
 
 ---
 
-## 🎓 ✦ 06 — MY JOURNEY
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/2023--2025-Intermediate-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/2025--2028-BSc_Student-4361EE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/2026-AI%2FML_Intern-06D6A0?style=for-the-badge"/>
+## `06` — MY JOURNEY SO FAR
+
+<img src="https://img.shields.io/badge/2023–2025-INTERMEDIATE-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/2025–2028-BSC%20STUDENT-4361EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/2026-AI%2FML%20INTERN-00B894?style=for-the-badge"/>
 
 </div>
 
@@ -282,94 +376,108 @@ print("🧫 Protein:", dna.translate())
 
 *June 2026 – September 2026*
 
-- Worked with Python, Pandas, and NumPy for data preparation.
-- Practiced building and validating supervised machine learning models.
-- Explored GridSearchCV and k-fold cross-validation.
-- Used Git, Jupyter Notebook, and VS Code in development workflows.
-- Developed a Django-based interface for model demonstrations.
+- Worked with Python, Pandas and NumPy for data preparation.
+- Built and evaluated supervised machine learning workflows.
+- Practiced cross-validation and hyperparameter tuning.
+- Used Git, Jupyter Notebook and VS Code.
+- Developed a Django interface for ML demonstrations.
 
 ### 🎓 Bachelor of Science — Yogi Vemana University
 
-*2025 – 2028 · In Progress*
+*2025–2028 · In progress*
 
-Building foundations in scientific computation, biology, quantitative analysis, and computational problem-solving.
+Developing foundations in biology, scientific computation, quantitative analysis and data-driven problem-solving.
 
 ### 📚 Intermediate — Sri Chaitanya Junior College
 
-*2023 – 2025*
+*2023–2025*
 
 Completed higher secondary education with a science-focused curriculum.
 
 ---
 
-## 📊 ✦ 07 — MY GITHUB UNIVERSE
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top programming languages"/>
+## `07` — MY GITHUB COMMAND CENTER
 
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub profile trophies"/>
-
-</div>
-
-*Your real statistics and trophies will appear when the services are available and your username is configured correctly.*
-
----
-
-## 🌱 ✦ 08 — CURRENTLY EXPLORING
-
-<div align="center">
-
-| 💜 Learning | 💙 Building | 💚 Exploring |
-|:---:|:---:|:---:|
-| Bioinformatics | Scientific Python tools | Genomic data |
-| Machine Learning | Interactive web apps | AI in healthcare |
-| Data Visualization | Biology-based games | Computational biology |
-
-</div>
-
-My goal is to keep learning, create useful scientific tools, and explore how computational methods can support biological research.
-
----
-
-## 💌 ✦ 09 — LET'S COLLABORATE!
-
-<div align="center">
-
-### Have an idea at the intersection of biology and technology?
-
-I'm interested in connecting with students, developers, and researchers working on bioinformatics, AI/ML, scientific computing, and educational technology.
-
-<a href="mailto:nagasailasya0@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-FF4B91?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="YOUR_LINKEDIN_PROFILE_URL"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="YOUR_KAGGLE_PROFILE_URL"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+*Explore my coding activity and repositories.*
 
 <br/>
 
-**📧 nagasailasya0@gmail.com**
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Programming language statistics"/>
 
-*Open to learning opportunities, research collaborations, and relevant internships.*
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub trophies"/>
 
 </div>
+
+<sub>GitHub cards and trophy displays rely on external services. Their data and availability may vary.</sub>
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Thank+you+for+visiting+LASYA.BIO!+%F0%9F%92%9C;Keep+Exploring.+Keep+Experimenting.+%F0%9F%A7%AC;The+Future+of+Biology+is+Computational.+%F0%9F%9A%80" alt="Colorful animated closing message"/>
+## `08` — WHAT'S NEXT?
 
-### 🧬 Biology is the question. Data is the language. Code is the bridge.
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B91,25:8A2BE2,55:2575FC,80:00C9FF,100:92FE9D&height=140&section=footer" width="100%" alt="Multicolor wave footer"/>
+<details>
+<summary><b>🧬 Computational Biology</b></summary>
 
-**© 2026 K. Naga Sai Lasya | LASYA.BIO**
+Exploring sequence analysis, biological data processing and computational approaches to molecular science.
+
+</details>
+
+<details>
+<summary><b>🤖 Artificial Intelligence</b></summary>
+
+Strengthening machine learning skills, model evaluation, data preparation and predictive analytics.
+
+</details>
+
+<details>
+<summary><b>📊 Scientific Data Science</b></summary>
+
+Practicing data visualization, statistical exploration and reproducible scientific workflows.
+
+</details>
+
+<details>
+<summary><b>🌐 Interactive Scientific Applications</b></summary>
+
+Building accessible web interfaces, educational tools and demonstrations that connect science with software.
+
+</details>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=FF4DAB&center=true&vCenter=true&width=800&lines=LET'S+BUILD+SOMETHING+MEANINGFUL!;Science+Needs+Curiosity.+Code+Needs+Creativity.;The+Future+of+Biology+is+Computational." alt="Animated closing statement"/>
+
+### 💌 LET'S CONNECT & COLLABORATE
+
+Interested in bioinformatics, machine learning, scientific computing or creative educational technology? Let's connect!
+
+<a href="mailto:nagasailasya0@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF4DAB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="YOUR_LINKEDIN_PROFILE_URL"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="YOUR_KAGGLE_PROFILE_URL"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/LASYA.BIO-7B2FF7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+
+**📧 nagasailasya0@gmail.com**
+
+<br/>
+
+*“Decode the data. Discover the patterns. Understand the science.”*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,30:2575FC,65:6A11CB,100:FF4DAB&height=160&section=footer&animation=fadeIn" alt="Colorful scientific footer"/>
+
+**© 2026 K. Naga Sai Lasya · LASYA.BIO**
 
 </div>
